@@ -5,7 +5,7 @@ const resultEl = document.querySelector("#result");
 const activityEl = document.querySelector("#activity");
 const activityTextEl = document.querySelector("#activityText");
 
-const BACKEND_URL = "http://localhost:3000";
+const BACKEND_URL = "https://ai-browser-copilot.onrender.com";
 const MIN_PAGE_TEXT_LENGTH = 30;
 
 const setStatus = (message) => {
