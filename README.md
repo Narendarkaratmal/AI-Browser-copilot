@@ -33,27 +33,22 @@ The extension is designed for technical reading and learning workflows across Gi
 ---
  
 ## 🛠️ Tech Stack
- 
-<div align="left">
-![Chrome Extension](https://img.shields.io/badge/-Manifest%20V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Gemini](https://img.shields.io/badge/-Google%20Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Render](https://img.shields.io/badge/-Render.com-46E3B7?style=flat-square&logo=render&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
- 
-</div>
-- Chrome Extension **Manifest V3**
-- `chrome.scripting.executeScript` for on-demand page extraction
-- HTML, CSS, and vanilla JavaScript for the popup UI
-- Node.js backend using the built-in `http` module
-- Google Gemini API for NLP tasks
-- Render.com for backend deployment
-- GitHub for version control
----
- 
+
+![Manifest V3](https://img.shields.io/badge/Manifest%20V3-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- Chrome Extension (**Manifest V3**)
+- HTML5, CSS3, Vanilla JavaScript
+- Node.js Backend
+- Google Gemini API
+- Render Deployment
+- GitHub
 ## 📁 Project Structure
  
 ```text
